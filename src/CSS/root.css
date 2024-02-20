@@ -1,0 +1,18 @@
+:root {
+  --color-border-button: black;
+  --color-primary: black;
+  --color-secundary: black;
+  --color-header: #ebebeb;
+  --color-blue-pastel: #84b6f4;
+  --color-button: #84b6f4;
+  --color-a: #84b6f4;
+  --color-body: #ebebeb;
+}
+
+.dark {
+  --color-button: #9b9b9b;
+  --color-primary: #fff;
+  --color-header: #353535;
+  --color-body: rgba(0, 0, 0, 0.774);
+  --color-a: #000;
+}

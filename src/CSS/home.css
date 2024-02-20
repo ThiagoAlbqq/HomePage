@@ -1,0 +1,15 @@
+#home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  gap: 10px;
+}
+
+.paragraphs {
+  text-indent: 20px;
+}
+
+main {
+  padding: 0 5%;
+}

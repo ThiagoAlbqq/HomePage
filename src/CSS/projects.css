@@ -1,0 +1,26 @@
+#projects {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 70vh;
+}
+
+p {
+  text-indent: 20px;
+}
+
+.content-projects {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.content-projects nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-projects nav a {
+  text-decoration: none;
+  font-weight: 500;
+}

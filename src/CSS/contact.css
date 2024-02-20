@@ -1,0 +1,15 @@
+#contact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-bottom: 50px;
+}
+
+.nav-contact {
+  display: flex;
+  gap: 10px;
+}
+
+.nav-contact a {
+  text-decoration: none;
+}
